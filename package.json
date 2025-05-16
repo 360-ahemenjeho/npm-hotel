@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "learn how to set-up an npm app with vite",
   "main": "main.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"testing\""
+    "test": "echo \"testing\"",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "type-check": "tsc --noEmit"
   },
   "repository": {
     "type": "git",
