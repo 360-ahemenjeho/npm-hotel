@@ -1,0 +1,24 @@
+{
+  "name": "hotel",
+  "version": "1.0.0",
+  "description": "learn how to set-up an npm app with vite",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"testing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/360-ahemenjeho/npm-hotel.git"
+  },
+  "keywords": [
+    "npm",
+    "hotel",
+    "tab"
+  ],
+  "author": "c8tor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/360-ahemenjeho/npm-hotel/issues"
+  },
+  "homepage": "https://github.com/360-ahemenjeho/npm-hotel#readme"
+}
